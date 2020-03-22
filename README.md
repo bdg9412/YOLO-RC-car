@@ -15,10 +15,10 @@ If you already bluetooth on, than you press connect button
 ![5](./res/5.jpg)  
 Program detection object and trans information to arduino RC car
 
-Reference:
+Reference:  
 https://pjreddie.com/darknet/yolo/  
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg  
 https://github.com/AlexeyAB/darknet  
-처음봐? 아두이노 - 유초희 저
-Do it Android -8th
-https://bugwhale.tistory.com/entry/android-bluetooth-application
+처음봐? 아두이노 - 유초희 저  
+Do it Android -8th  
+https://bugwhale.tistory.com/entry/android-bluetooth-application  
