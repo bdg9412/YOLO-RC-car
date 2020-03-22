@@ -1,5 +1,5 @@
 # YOLO-RC-car  
-This Program Using YOLOv3-tiny for object detection with arduino RC car 
+This Program Using YOLOv3-tiny for object detection with arduino RC car   
 Prepare:  
  1. Android mobile
  2. Arduino RC car
