@@ -4,6 +4,8 @@ Prepare:
  1. Android mobile
  2. Arduino RC car
  3. Custom Yolov3 
+ 4. Android stduio  
+ 5. opencv  
 # Arduino car  
 - 설치  
 ![1](./res/1.jpg)  
