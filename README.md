@@ -1,5 +1,9 @@
 # YOLO-RC-car  
-This Program Using YOLOv3-tiny for object detection with arduino RC car  
+This Program Using YOLOv3-tiny for object detection with arduino RC car 
+Prepare:  
+ 1. Android mobile
+ 2. Arduino RC car
+ 3. Custom Yolov3 
 # Arduino car  
 - 설치  
 ![1](./res/1.jpg)  
