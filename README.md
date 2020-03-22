@@ -19,7 +19,7 @@ When turn on the application
 ![4](./res/4.jpg)  
 If you already bluetooth on, than you press connect button  
 ![5](./res/5.jpg)  
-Program detection object and trans information to arduino RC car
+Program detection object and send information to arduino RC car using bluetooth
 
 Reference:  
 https://pjreddie.com/darknet/yolo/  
