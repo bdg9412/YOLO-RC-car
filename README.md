@@ -19,7 +19,10 @@ When turn on the application
 ![4](./res/4.jpg)  
 If you already bluetooth on, than you press connect button  
 ![5](./res/5.jpg)  
-Program detection object and send information to arduino RC car using bluetooth
+Program detection object and send information to arduino RC car using bluetooth  
+
+My RC car video upload on youtube
+https://youtu.be/3NIUR6Ntheo  
 
 Reference:  
 https://pjreddie.com/darknet/yolo/  
@@ -28,3 +31,4 @@ https://github.com/AlexeyAB/darknet
 처음봐? 아두이노 - 유초희 저  
 Do it Android -8th  
 https://bugwhale.tistory.com/entry/android-bluetooth-application  
+
